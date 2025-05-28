@@ -54,6 +54,8 @@ Errores introducidos: 3
 3. Alice y Bob comparan bases y solo conservan los bits donde coinciden (clave secreta).
 4. Si Eve espía, introduce errores en la clave, lo que permite detectarla.
 
+5. Ver Infografía [https://github.com/FabianJuarez182/Lab5_QKD/blob/main/infografia_qkd.pdf]
+
 ## 🎯 Objetivos del Proyecto
 ✔️ Entender BB84 de manera práctica.
 
